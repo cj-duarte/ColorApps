@@ -1,4 +1,4 @@
-package com.example.colors;
+package www.edwarerazo.colorsapp;
 
 import org.junit.Test;
 
